@@ -1,0 +1,61 @@
+The Board size is 47.
+==============================================================================================================
+Snake(s)  | 35 - 28 |
+Ladder(s) | 4 - 8 |
+==============================================================================================================
+Player 1 Starts off at 1.
+Player 1 Rolled a 1.
+Player 1 Position: 2
+
+Player 1 Rolled a 4.
+Player 1 Position: 6
+
+Player 1 Rolled a 4.
+Player 1 Position: 10
+
+Player 1 Rolled a 4.
+Player 1 Position: 14
+
+Player 1 Rolled a 5.
+Player 1 Position: 19
+
+Player 1 Rolled a 4.
+Player 1 Position: 23
+
+Player 1 Rolled a 3.
+Player 1 Position: 26
+
+Player 1 Rolled a 4.
+Player 1 Position: 30
+
+Player 1 Rolled a 3.
+Player 1 Position: 33
+
+Player 1 Rolled a 2.
+Landed on the Head of a Snake! You fell from 35 to 28.
+Player 1 Position: 28
+
+Player 1 Rolled a 3.
+Player 1 Position: 31
+
+Player 1 Rolled a 2.
+Player 1 Position: 33
+
+Player 1 Rolled a 3.
+Player 1 Position: 36
+
+Player 1 Rolled a 3.
+Player 1 Position: 39
+
+Player 1 Rolled a 4.
+Player 1 Position: 43
+
+Player 1 Rolled a 3.
+Player 1 Position: 46
+
+Player 1 Rolled a 2.
+Player Moved to 47
+=========================
+Congratulations! You Won!
+=========================
+
